@@ -1,4 +1,4 @@
-# LiveStreame
+# LiveStreamer
 Python script that streams live channel in a webpage channels available more than 80
 # Steps to run
 1-Open the terminal<br />
@@ -17,7 +17,7 @@ Example: python livestreamer.py -stream 32<br/>
 3-Type python livestreamer.py -show/-SHOW will show the available channel
 4-Type python livestreamer.py -stream/-STREAM  enter channel code here like  python livestreamer.py -stream 32</br>
 
-
+![Screenshot of the script in action](https://github.com/shivam043/LiveStreamer/blob/master/livestreamer.png)
 
 Copyright 2016 shivam043
 
