@@ -3,7 +3,7 @@ Python script that streams live channel in a webpage channels available more tha
 # Steps to run
 1-Open the terminal<br />
 2-Type following in the terminal->python livestreamer.py -h/--help will show the help</br>
-usage: livestreamer.py [-h] -stream ChannelCode STREAM CHANNELCODE
+''' usage: livestreamer.py [-h] -stream ChannelCode STREAM CHANNELCODE
                        [-show [SHOW]]
 
 OPTIONS:
@@ -11,11 +11,11 @@ OPTIONS:
   -stream ChannelCode STREAM CHANNELCODE, -STREAM ChannelCode STREAM CHANNELCODE
                         Runs the channel in a webpage
   -show [SHOW], -SHOW [SHOW]
-                        Shows all the channel codes
+                        Shows all the channel codes  
 
 Example: python livestreamer.py -stream 32<br/>
 3-Type python livestreamer.py -show/-SHOW will show the available channel
-4-Type python livestreamer.py -stream/-STREAM  enter channel code here like  python livestreamer.py -stream 32</br>
+4-Type python livestreamer.py -stream/-STREAM  enter channel code here like  python livestreamer.py -stream 32</br> '''
 
 ![Screenshot of the script in action](https://github.com/shivam043/LiveStreamer/blob/master/livestreamer.png)
 
